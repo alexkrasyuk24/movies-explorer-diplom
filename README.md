@@ -59,11 +59,11 @@ Dark 3
 
 ## Ccылка на проект и IP:
 
-IP 
+IP 51.250.106.109
 
-Frontend
+Frontend https://krasyuk.nomoredomainsicu.ru
 
-Backend
+Backend https://api.krasyuk.nomoredomainsicu.ru
 
 ## Ccылка на репозиторий:
 
